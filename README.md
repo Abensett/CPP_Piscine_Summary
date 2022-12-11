@@ -47,14 +47,14 @@ This is a page that sums up the notions learned during the eight C++ projects.
    * Explicit
  
 ## [CPP 07](../../../19.CPP-Module-07)
-* [Templates](#Templates)  
-* [Templates de classe](#Templates-de-classe)  
-* [Default type && operator overload](#efault-type-&&-operator-overload)  
-* [Specialization](#Specialization)  
-* [Parametric macros](#Parametric-macro)
+* Templates 
+* Templates de classe  
+* Default type && operator overload
+* Specialization
+* Parametric macros
   
  ## [CPP 08](../../../20.CPP-Module-08)
   *  STL = Standard Template Library
-  * [Containers templates](#Containers-templates)  
-  * [Iterators](#Iterators)  
-  * [Algorithmes](#Algorithmes)  
+  * Containers templates 
+  * Iterators 
+  * Algorithmes  
